@@ -45,16 +45,19 @@ namespace Moving_Around_WPF
         // Event handler for the timer's Tick event
         private void Timer_Tick(object sender, EventArgs e)
         {
-            // This method is executed each time the timer ticks
+            // Generate a random interval between 1 and 4 seconds
+            Random random = new Random();
+            int randomInterval = random.Next(1000, 4001); // Generate a random number between 1000 and 4000 milliseconds
+            TimeSpan interval = TimeSpan.FromMilliseconds(randomInterval);
 
             if (isWKeyPressed)
             {
                 // Simulate key press for "w"
                 keybd_event((byte)KeyInterop.VirtualKeyFromKey(Key.W), 0, KEYEVENTF_EXTENDEDKEY, 0);
 
-                // Set a timer to release the "w" key after 4 seconds
+                // Set a timer to release the "w" key after the random interval
                 var releaseTimer = new DispatcherTimer();
-                releaseTimer.Interval = TimeSpan.FromSeconds(4);
+                releaseTimer.Interval = interval;
                 releaseTimer.Tick += (s, args) =>
                 {
                     // Simulate key release for "w"
@@ -69,9 +72,9 @@ namespace Moving_Around_WPF
                 // Simulate key press for "s"
                 keybd_event((byte)KeyInterop.VirtualKeyFromKey(Key.S), 0, KEYEVENTF_EXTENDEDKEY, 0);
 
-                // Set a timer to release the "s" key after 4 seconds
+                // Set a timer to release the "s" key after the random interval
                 var releaseTimer = new DispatcherTimer();
-                releaseTimer.Interval = TimeSpan.FromSeconds(4);
+                releaseTimer.Interval = interval;
                 releaseTimer.Tick += (s, args) =>
                 {
                     // Simulate key release for "s"
