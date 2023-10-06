@@ -1,0 +1,20 @@
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\bin\Debug\net7.0-windows\Moving Around WPF.exe
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\bin\Debug\net7.0-windows\Moving Around WPF.deps.json
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\bin\Debug\net7.0-windows\Moving Around WPF.runtimeconfig.json
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\bin\Debug\net7.0-windows\Moving Around WPF.dll
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\bin\Debug\net7.0-windows\Moving Around WPF.pdb
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF_MarkupCompile.cache
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF_MarkupCompile.lref
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.g.resources
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.dll
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\refint\Moving Around WPF.dll
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.pdb
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\Moving Around WPF.genruntimeconfig.cache
+C:\Users\kamil\source\repos\Moving Around WPF\Moving Around WPF\obj\Debug\net7.0-windows\ref\Moving Around WPF.dll
